@@ -1,2 +1,2 @@
 # proccgi-am
-Automake enabled package of Frank Pilhofer's proccgi.c
+Autotools enabled package of Frank Pilhofer's proccgi.c
